@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Hackathon submission snapshot**
+>
+> This repository preserves the version submitted to **Reinvent the Wheel, 16–18 October 2026**, hosted by [Science Works](https://science.works) and [Inherent Laboratories](https://inherentlabs.ai/).
+>
+> **For the latest version, issues and contributions, visit the original project: [IzzyRodger-edb/EPSR_hackathon2026](https://github.com/IzzyRodger-edb/EPSR_hackathon2026).**
+>
+> Submitted version: [`f1fe713`](https://github.com/science-works/rtw-2026-mona-lisa-epsr/tree/f1fe7132d034e04ab1ccc00b2a863c52b93cab31). This notice was added after submission. Nothing else in the repository has changed.
+
+---
+
 <p align="center">
   <img src="docs/EPSR_Mellor_logo.png" alt="EPSR/Mellor logo" width="620">
 </p>
